@@ -1,0 +1,7 @@
+.vscode
+docs
+src/cli
+src/gui
+src/terminal
+src/dev
+article.md
