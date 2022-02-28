@@ -4,7 +4,9 @@
 <p>Run it directly if you have python installed</p>
 <h4>Usage</h4>
 <p>run this command:</p>
+
 `python -m IconSorter_v1.py`
+
 <p>The module will ask you your folder location and target location.</p>
 <h4>TODOS</h4>
 <ul>
