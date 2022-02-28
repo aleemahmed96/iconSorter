@@ -1,7 +1,4 @@
 import os
-
-from matplotlib import image
-# import PIL.Image as Image
 import imagesize
 import shutil
 
